@@ -128,3 +128,13 @@ ElevenLabs
 豆包 (Doubao) (字节)
 DeepSeek (深度求索)
 文心一言 (ERNIE) (百度)
+
+宠物
++猫
++狗
++仓鼠
+!狗肉店
+
+
+宠物
+
